@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06760fb8ef8caca4f81f015741aa8d5b, type: 3}
+  m_Name: Gareth
+  m_EditorClassIdentifier: 
+  name: Gareth
+  sprite: {fileID: 2800000, guid: b4e9ddeb32853c64894003bc8c94ee06, type: 3}
+  SPD: 3
+  HP: 120
+  MANA: 100
+  ATK: 25
+  DEF: 40
+  WIS: 5
+  RES: 20
+  role: {fileID: 11400000, guid: 2b213e5fe166ddf4bbbfa1e742ccbba1, type: 2}
+  race: {fileID: 11400000, guid: ba0d6f8f9fe4d144690152bfdb8ba280, type: 2}
